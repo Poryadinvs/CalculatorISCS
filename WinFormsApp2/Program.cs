@@ -1,4 +1,4 @@
-namespace Калькулятор_программист
+namespace WinFormsApp2
 {
     internal static class Program
     {
